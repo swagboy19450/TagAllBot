@@ -27,8 +27,8 @@ async def start(event):
   await event.reply("^_^ Hey, Welcome To TAG Help Bot's Menu\nI can tag 15,000 Members in Group and 300 Members In Channel.\nNeed Help /help ",
                     buttons=(
                       [
-                         Button.url('📣 UPDATES', 'https://t.me/DeeCodeBots'), 
-                         Button.url('⭐SUPPORT', 'https://t.me/DeCodeSupport'), 
+                         Button.url('📣 UPDATES', 'https://t.me/HEART_BEAT_01'), 
+                         Button.url('⭐SUPPORT', 'https://t.me/HEART_BEAT_01'), 
                       ], 
                       [
                         Button.url('➕ ADD ME TO YOUR GROUP', 'https://t.me/MEMBER_TAGERBOT?startgroup=true'),   
@@ -163,5 +163,5 @@ async def telegraph(client, message):
 
 
 print("Started Successfully Join Support")
-print("¯\_(ツ)_/¯ Need Help Join @DeCodeSupport")
+print("¯\_(ツ)_/¯ Need Help Join @HEART_BEAT_01")
 client.run_until_disconnected()
